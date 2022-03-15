@@ -1,4 +1,9 @@
 body {
     background-color: palegoldenrod;
-    color: pink;
+    padding-top: 5em;
+    text-align: center;
+}
+
+h1 {
+      color: pink;
 }
